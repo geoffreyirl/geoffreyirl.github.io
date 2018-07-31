@@ -3,12 +3,12 @@ import axios from "axios";
 import { Radio } from "bootstrap";
 import "../assets/css/style.css";
 import { Panel, Well, Fade, Collapse, Button } from "react-bootstrap";
-import nos from "../../../dist/nos.77f37588.png";
-import nex from "../../../dist/nex.b0aceae2.png";
-import coz from "../../../dist/coz.4532cd26.png";
-import lx from "../../../dist/lx.17dfbe0a.png";
-import neon from "../../../dist/neon.6b50da13.png";
-import neo from "../../../dist/neo.0078b942.png";
+import nos from "../../dist/nos.77f37588.png";
+import nex from "../../dist/nex.b0aceae2.png";
+import coz from "../../dist/coz.4532cd26.png";
+import lx from "../../dist/lx.17dfbe0a.png";
+import neon from "../../dist/neon.6b50da13.png";
+import neo from "../../dist/neo.0078b942.png";
 
 import $ from "jquery";
 
